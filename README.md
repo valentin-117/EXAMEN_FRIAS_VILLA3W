@@ -37,3 +37,4 @@ print("Estos son tus datos: ", ap, am, name, num_ctrl)#imprime todos los valores
 ![image](https://github.com/user-attachments/assets/ed51abfa-72b8-45fc-8fec-3abab14b6a9a)
 ![image](https://github.com/user-attachments/assets/2d8e47b8-ec92-405c-9d21-540bc2afa417)
 
+
